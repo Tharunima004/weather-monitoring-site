@@ -3,11 +3,8 @@
 A responsive weather monitoring web app built with **HTML, CSS, and JavaScript** that fetches real-time weather data for any city and displays current conditions in a clean, easy-to-read interface.
  
 ## 🔗 Live Demo
-*(Add your GitHub Pages link here once deployed)*
- 
-## 📸 Preview
-*(Add a screenshot of your weather site here)*
- 
+https://tharunima004.github.io/weather-monitoring-site/
+  
 ## ✨ Features
 - Search weather by city name
 - Displays temperature, humidity, wind speed, and weather condition
